@@ -7,7 +7,7 @@ Steps:
 - What processes are needed for a inventory control management to work.
 - -------------------------
 - created a relational diagram 
-- threw the diagram into reverse engineering --> creating inventoryMangementDatabase.sql 
+- threw the diagram into forward engineering --> creating inventoryMangementDatabase.sql 
 - --------------------------
 - made some code that would populate and show how sql syntax can manipulate data in tables based on what was learned throughout the course. 
 - --> creating databaseImplementation.sql
